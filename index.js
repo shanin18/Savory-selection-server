@@ -15,6 +15,12 @@ app.get("/chef", (req, res)=>{
     res.send(chef)
 })
 
+app.get("/chef/:id", (req, res)=>{
+    const id = req.params.id;
+    const selectedItem = chef?.find(c => c.id == id)
+    res.send(selectedItem)
+})
+
 app.listen(port, () => {
   console.log(`server running on port ${port}`)
 })
