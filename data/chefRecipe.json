@@ -1,0 +1,423 @@
+[
+  {
+    "img":"https://i.ytimg.com/vi/Iv73ADD_lok/maxresdefault.jpg",
+    "recipe_name": "Bengali Fish Curry",
+    "ingredients": ["Fish", "Onion", "Garlic", "Ginger", "Tomato"],
+    "cooking_method": "1. Heat oil in a pan and fry sliced onions until golden brown. 2. Add garlic and ginger and fry for another minute. 3. Add chopped tomatoes and fry until they become soft. 4. Add fish and cook until it is fully cooked. 5. Serve hot with rice.",
+    "rating": 4.5,
+    "unique_id": "12345",
+    "chef_id": 1,
+    "favorite": false
+  },
+
+  {
+    "img":"https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
+    "recipe_name": "Beef Bhuna",
+    "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Tomato"],
+    "cooking_method": "1. Heat oil in a pan and fry sliced onions until golden brown. 2. Add garlic and ginger and fry for another minute. 3. Add chopped tomatoes and fry until they become soft. 4. Add beef and cook until it is fully cooked. 5. Serve hot with rice.",
+    "rating": 4.8,
+    "unique_id": "24680",
+    "chef_id": 1,
+    "favorite": false
+  },
+
+  {
+    "img":"https://i.ytimg.com/vi/OELPFA94Ado/maxresdefault.jpg",
+    "recipe_name": "Shorshe Ilish",
+    "ingredients": [
+      "Hilsa Fish",
+      "Mustard Oil",
+      "Mustard Paste",
+      "Turmeric",
+      "Green Chili"
+    ],
+    "cooking_method": "1. Marinate fish with turmeric and salt. 2. Fry fish in mustard oil until golden brown. 3. In a separate pan, heat mustard oil and add mustard paste and green chili. 4. Add fried fish and cook for a few minutes. 5. Serve hot with rice.",
+    "rating": 4.9,
+    "unique_id": "98765",
+    "chef_id": 1,
+    "favorite": false
+  },
+
+  {
+    "img":"https://static.vecteezy.com/system/resources/previews/016/585/540/large_2x/sandesh-or-shondesh-is-a-dessert-originating-from-the-bengal-india-created-with-milk-and-sugar-free-photo.jpg",
+    "recipe_name": "Shondesh",
+    "ingredients": ["Milk Powder", "Sugar", "Water", "Cardamom", "Pistachio"],
+    "cooking_method": "1. Mix milk powder, sugar, and water to form a dough 2. Knead the dough and form small round-shaped balls 3. Boil water and sugar until the sugar dissolves 4. Add the balls to the syrup and cook for 15-20 minutes 5. Add cardamom and pistachio and let it cool down before serving",
+    "rating": "4.8",
+    "unique_id": "18735",
+    "chef_id": 1,
+    "favorite": true
+  },
+  {
+    "img":"https://www.pakistanihealthyrecipes.com/wp-content/uploads/2021/07/how-to-make-chicken-korma-recipe.jpg",
+    "recipe_name": "Chicken Korma",
+    "ingredients": ["Chicken", "Yogurt", "Onion", "Garlic", "Ginger"],
+    "cooking_method": "1. Marinate chicken in yogurt and spices. 2. Fry sliced onions until golden brown. 3. Add garlic and ginger and fry for another minute. 4. Add marinated chicken and cook until it is fully cooked. 5. Serve hot with naan or rice.",
+    "rating": 4.2,
+    "unique_id": "67890",
+    "chef_id": 2,
+    "favorite": true
+  },
+  {
+    "img":"https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Shaheen_Ali/CHETTINAD_STYLE_PRAWN_BIRYANI.jpg",
+    "recipe_name": "Prawn Biryani",
+    "ingredients": ["Prawns", "Rice", "Onion", "Garlic", "Ginger"],
+    "cooking_method": "1. Marinate prawns in yogurt and spices. 2. Fry sliced onions until golden brown. 3. Add garlic and ginger and fry for another minute. 4. Add marinated prawns and cook until they are fully cooked. 5. Layer cooked rice and prawn mixture in a pot and cook on low heat until rice is fully cooked. 6. Serve hot with raita.",
+    "rating": 4.6,
+    "unique_id": "13579",
+    "chef_id": 2,
+    "favorite": true
+  },
+  {
+    "img":"https://media-cdn.tripadvisor.com/media/photo-s/0d/5e/88/1d/galda-chingri-malai-curry.jpg",
+    "recipe_name": "Chingri Malai Curry",
+    "ingredients": ["Prawns", "Coconut Milk", "Onion", "Garlic", "Ginger"],
+    "cooking_method": "1. Fry sliced onions until golden brown. 2. Add garlic and ginger and fry for another minute. 3. Add prawns and cook until they turn pink. 4. Add coconut milk and cook for a few minutes. 5. Serve hot with rice.",
+    "rating": 4.7,
+    "unique_id": "54321",
+    "chef_id": 2,
+    "favorite": true
+  },
+  {
+    "img":"https://www.milkmaid.in/sites/default/files/2020-10/Rasmalai-590x436_0.jpg",
+    "recipe_name": "Rasmalai",
+    "ingredients": [
+      "Milk",
+      "Lemon Juice",
+      "Sugar",
+      "Water",
+      "Cardamom",
+      "Pistachio"
+    ],
+    "cooking_method": "1. Boil milk and add lemon juice to curdle it 2. Strain the curdled milk and rinse with water 3. Squeeze out excess water and form small flat-shaped balls 4. In a separate pot, boil water and sugar until the sugar dissolves 5. Add the balls to the syrup and cook for 10-15 minutes 6. Add cardamom and let it cool down before serving 7. Garnish with pistachio",
+    "rating": "4.6",
+    "unique_id": "54539",
+    "chef_id": 2,
+    "favorite": true
+  },
+  {
+    "img":"https://i.ytimg.com/vi/_CiKFottEQg/maxresdefault.jpg",
+    "recipe_name": "Hajir Biriyani",
+    "ingredients": [
+      "Basmati rice",
+      "Mutton",
+      "Potatoes",
+      "Onions",
+      "Ginger paste",
+      "Garlic paste",
+      "Chili powder",
+      "Turmeric powder",
+      "Cumin powder",
+      "Coriander powder",
+      "Bay leaves",
+      "Cinnamon sticks",
+      "Green cardamom",
+      "Cloves",
+      "Mace",
+      "Nutmeg",
+      "Yogurt",
+      "Ghee",
+      "Oil",
+      "Salt"
+    ],
+    "cooking_method": "1. Marinate the mutton with yogurt, ginger paste, garlic paste, chili powder, turmeric powder, cumin powder, coriander powder, and salt for 30 minutes. 2. Heat oil and ghee in a pan and fry the potatoes until golden brown, then remove them and keep them aside. 3. In the same oil, add the bay leaves, cinnamon sticks, green cardamom, cloves, mace, and nutmeg. Fry for a few seconds. 4. Add sliced onions and fry until golden brown. 5. Add the marinated mutton and cook for 10-15 minutes. 6. Add water and let the mutton cook until it becomes tender. 7. Boil the rice with salt and ghee. 8. In a separate pan, layer the rice and mutton, starting and ending with a rice layer. 9. Add fried potatoes on top of the rice. 10. Cover the pan and let it cook on low heat for 20-25 minutes. 11. Serve hot.",
+    "rating": 4.8,
+    "unique_id": "91265",
+    "chef_id": 3,
+    "favorite": false
+  },
+
+  {
+    "img":"https://www.krumpli.co.uk/wp-content/uploads/2020/10/Beef-Bhuna-1.jpg",
+    "recipe_name": "Beef Bhuna",
+    "ingredients": ["Beef", "Onion", "Garlic", "Ginger", "Tomato"],
+    "cooking_method": "1. Cut beef into small pieces and marinate with spices. 2. Fry sliced onions until golden brown. 3. Add garlic and ginger and fry for another minute. 4. Add marinated beef and cook until it is fully cooked. 5. Add diced tomatoes and cook for a few minutes. 6. Serve hot with rice.",
+    "rating": 4.5,
+    "unique_id": "73642",
+    "chef_id": 3,
+    "favorite": false
+  },
+
+  {
+    "img":"https://www.archanaskitchen.com/images/archanaskitchen/1-Author/Karthika_Gopalakrishnan/Aar_macher_Jhol.jpg",
+    "recipe_name": "Bengali Fish Curry",
+    "ingredients": ["Fish", "Onion", "Garlic", "Ginger", "Turmeric"],
+    "cooking_method": "1. Marinate fish with turmeric and salt. 2. Fry sliced onions until golden brown. 3. Add garlic and ginger and fry for another minute. 4. Add marinated fish and cook until it is fully cooked. 5. Serve hot with rice.",
+    "rating": 4.6,
+    "unique_id": "90875",
+    "chef_id": 3,
+    "favorite": true
+  },
+  {
+    "img":"https://i0.wp.com/savorytales.com/wp-content/uploads/2017/11/IMG_6473.jpg?resize=707%2C471&ssl=1",
+    "recipe_name": "Mishti Doi",
+    "ingredients": ["Milk", "Yogurt", "Sugar", "Honey", "Water"],
+    "method": "1. Boil milk and let it cool down 2. Add yogurt and sugar to the milk 3. Mix well and pour into small clay pots 4. Keep the pots in a warm place for 6-8 hours to set the yogurt 5. Refrigerate before serving",
+    "rating": "4.7",
+    "unique_id": "99172",
+    "chef_id": 3,
+    "favorite": true
+  },
+  {
+    "img":"https://cdn.shopify.com/s/files/1/0072/1272/8371/products/Morog-Pulao-Combo_2000x.jpg?v=1587895111",
+    "recipe_name": "Morog Polao",
+    "ingredients": ["Chicken", "Rice", "Onion", "Garlic", "Ginger"],
+    "cooking_method": "1. Marinate chicken with yogurt and spices. 2. Fry sliced onions until golden brown. 3. Add garlic and ginger and fry for another minute. 4. Add marinated chicken and cook until it is fully cooked. 5. Layer cooked rice and chicken mixture in a pot and cook on low heat until rice is fully cooked. 6. Serve hot with raita.",
+    "rating": 4.4,
+    "unique_id": "10293",
+    "chef_id": 4,
+    "favorite": false
+  },
+
+  {
+    "img":"https://uploads-ssl.webflow.com/5c481361c604e53624138c2f/5c4b7c8eca0cb6e991547dfc_ilish-bhapa.png",
+    "recipe_name": "Bhapa Ilish",
+    "ingredients": [
+      "Hilsa Fish",
+      "Mustard Paste",
+      "Green Chili",
+      "Turmeric",
+      "Salt"
+    ],
+    "cooking_method": "1. Marinate fish with mustard paste, green chili, turmeric, and salt. 2. Wrap the fish in banana leaves and steam for 15-20 minutes. 3. Serve hot with rice.",
+    "rating": 4.8,
+    "unique_id": "76543",
+    "chef_id": 4,
+    "favorite": true
+  },
+
+  {
+    "img":"https://2.bp.blogspot.com/-IjmGdjYRsyc/WUp3gXjWxjI/AAAAAAAAAAg/dceUL-NX1kAGNy37DcazKPadVqewJtcNwCPcBGAYYCw/s1600/y.jpg",
+    "recipe_name": "Dhaka Biryani",
+    "ingredients": ["Chicken", "Rice", "Onion", "Garlic", "Ginger"],
+    "cooking_method": "1. Marinate chicken with yogurt and spices. 2. Fry sliced onions until golden brown. 3. Add garlic and ginger and fry for another minute. 4. Add marinated chicken and cook until it is fully cooked. 5. Layer cooked rice and chicken mixture in a pot and cook on low heat until rice is fully cooked. 6. Serve hot with raita and salad.",
+    "rating": 4.7,
+    "unique_id": "28463",
+    "chef_id": 4,
+    "favorite": false
+  },
+
+  {
+    "img":"https://today.thefinancialexpress.com.bd/uploads/1510844589.jpg",
+    "recipe_name": "Bhapa Pitha",
+    "ingredients": [
+      "Rice Flour",
+      "Coconut Milk",
+      "Jaggery",
+      "Cardamom",
+      "Water"
+    ],
+    "cooking_method": "1. Mix rice flour with coconut milk and water to make a batter. 2. Add jaggery and cardamom and mix well. 3. Pour the mixture into a greased dish and steam for about 30 minutes. 4. Serve hot with tea or coffee.",
+    "rating": 4.2,
+    "unique_id": "78901",
+    "chef_id": 4,
+    "favorite": true
+  },
+  {
+    "img":"https://i.ndtvimg.com/i/2017-04/prawn-curry-generic_650x400_51491898702.jpg",
+    "recipe_name": "Chingri Malai Curry",
+    "ingredients": ["Prawns", "Coconut Milk", "Onion", "Garlic", "Ginger"],
+    "cooking_method": "1. Fry sliced onions until golden brown. 2. Add garlic and ginger and fry for another minute. 3. Add prawns and cook until they turn pink. 4. Add coconut milk and cook for a few minutes. 5. Serve hot with rice.",
+    "rating": 4.7,
+    "unique_id": "54321",
+    "chef_id": 5,
+    "favorite": true
+  },
+
+  {
+    "img":"https://rumkisgoldenspoon.com/wp-content/uploads/2021/05/Bhuna-khichuri-recipe.jpg",
+    "recipe_name": "Bhuna Khichuri",
+    "ingredients": ["Rice", "Lentils", "Onion", "Garlic", "Ginger"],
+    "cooking_method": "1. Soak rice and lentils in water for 30 minutes. 2. Fry sliced onions until golden brown. 3. Add garlic and ginger and fry for another minute. 4. Add rice and lentils and fry for a few minutes. 5. Add water and cook until rice and lentils are fully cooked. 6. Serve hot with a side of fried eggs and pickles.",
+    "rating": 4.3,
+    "unique_id": "39485",
+    "chef_id": 5,
+    "favorite": true
+  },
+  {
+    "img":"https://www.thehitavada.com/Encyc/2019/5/1/2_01_03_46_Prawn-Malai-Curry_1_H@@IGHT_545_W@@IDTH_970.jpg",
+    "recipe_name": "Prawn Malai Curry",
+    "ingredients": ["Prawn", "Coconut Milk", "Onion", "Garlic", "Ginger"],
+    "cooking_method": "1. Fry sliced onions until golden brown. 2. Add garlic and ginger and fry for another minute. 3. Add prawns and cook until they turn pink. 4. Add coconut milk and simmer for a few minutes. 5. Serve hot with rice.",
+    "rating": 4.4,
+    "unique_id": "23456",
+    "chef_id": 5,
+    "favorite": true
+  },
+  {
+    "img":"https://rumkisgoldenspoon.com/wp-content/uploads/2022/07/Chicken-rezala-recipe.jpg",
+    "recipe_name": "Chicken Rezala",
+    "ingredients": ["Chicken", "Yogurt", "Onion", "Garlic", "Ginger"],
+    "cooking_method": "1. Marinate chicken with yogurt and spices. 2. Fry sliced onions until golden brown. 3. Add garlic and ginger and fry for another minute. 4. Add marinated chicken and cook until it is fully cooked. 5. Serve hot with naan or paratha.",
+    "rating": 4.6,
+    "unique_id": "34567",
+    "chef_id": 6,
+    "favorite": false
+  },
+  {
+    "img":"https://geekrobocook.com/wp-content/uploads/2021/04/Chital-macher-muitha.jpg",
+    "recipe_name": "Chitol Macher Muitha",
+    "ingredients": ["Chitol Fish", "Rice Flour", "Onion", "Garlic", "Ginger"],
+    "cooking_method": "1. Boil fish until it is cooked. 2. Mash the fish and mix with rice flour, onions, garlic, ginger, and spices. 3. Make small balls from the mixture. 4. Cook the balls in boiling water until they float to the surface. 5. Serve hot with tamarind sauce.",
+    "rating": 4.3,
+    "unique_id": "45678",
+    "chef_id": 6,
+    "favorite": false
+  },
+  {
+    "img":"https://hattyfoods.com/wp-content/uploads/2021/04/Restaurant-style-fish-fry-recipe1.jpg",
+    "recipe_name": "Fish Fry",
+    "ingredients": [
+      "Fish",
+      "Garlic",
+      "Ginger",
+      "Lemon Juice",
+      "Red Chili Powder",
+      "Turmeric Powder",
+      "Salt",
+      "Oil"
+    ],
+    "cooking_method": "1. Clean the fish and marinate with lemon juice, garlic, ginger, red chili powder, turmeric powder, and salt. 2. Heat oil in a pan and fry the fish until golden brown.\n3. Serve hot with steamed rice and salad.",
+    "rating": 4.8,
+    "unique_id": "55618",
+    "chef_id": 6,
+    "favorite": false
+  },
+  {
+    "img":"https://3.bp.blogspot.com/-0rJIfoit1lc/T9tpdY7pEpI/AAAAAAAAFxk/NLUKXXIXtfM/s1600/prawn2.jpg",
+    "recipe_name": "Chingri Malaikari",
+    "ingredients": ["Prawns", "Coconut Milk", "Onion", "Garlic", "Ginger"],
+    "cooking_method": "1. Fry sliced onions until golden brown. 2. Add garlic and ginger and fry for another minute. 3. Add prawns and cook until they turn pink. 4. Add coconut milk and simmer for a few minutes. 5. Serve hot with rice.",
+    "rating": 4.8,
+    "unique_id": "67890",
+    "chef_id": 7,
+    "favorite": false
+  },
+  {
+    "img":"https://i.ytimg.com/vi/LaFxo4doEtk/maxresdefault.jpg",
+    "recipe_name": "Malai Chop",
+    "ingredients": [
+      "Milk",
+      "Sugar",
+      "Water",
+      "Rose Water",
+      "Almond",
+      "Pistachio"
+    ],
+    "cooking_method": "1. Boil milk and reduce it to half 2. Add sugar and stir until it dissolves 3. Cook the mixture until it thickens and forms a solid mass 4. Cut the mass into small diamond-shaped pieces 5. Boil water and sugar until the sugar dissolves 6. Add the pieces to the syrup and cook for 10-15 minutes 7. Add rose water and garnish with almond and pistachio before serving",
+    "rating": "4.4",
+    "unique_id": "55618",
+    "chef_id": 7,
+    "favorite": false
+  },
+  {
+    "img":"https://1.bp.blogspot.com/-hYfPLy0mELA/XyXnSew_gJI/AAAAAAABCyc/NiRrCmNzsnouBuwni8kp09vID_ovZ9G3gCLcBGAsYHQ/s1600/IMG_20200730_125751.jpg",
+    "recipe_name": "Bangladeshi Chicken Korma",
+    "ingredients": [
+      "Chicken",
+      "Onion",
+      "Garlic",
+      "Ginger",
+      "Turmeric",
+      "Cumin",
+      "Coriander",
+      "Cinnamon",
+      "Cardamom",
+      "Cloves",
+      "Bay leaves",
+      "Tomato",
+      "Yogurt",
+      "Cream",
+      "Oil",
+      "Salt"
+    ],
+    "cooking_method": "Marinate the chicken with yogurt, turmeric, salt, and oil for at least 30 minutes 2. Heat oil in a pan and fry the chicken until golden brown 3. Remove chicken from the pan and set aside 4. In the same pan, add onion, garlic, and ginger and fry until the onion becomes translucent 5. Add cumin, coriander, cinnamon, cardamom, cloves, and bay leaves to the pan and fry for a minute 6. Add chopped tomatoes to the pan and cook until the tomatoes are soft 7. Add the fried chicken to the pan and mix well with the spice mixture 8. Add water and cook for 10 minutes or until the chicken is fully cooked 9. Add cream to the pan and cook for another 2-3 minutes 10. Serve hot.",
+    "rating": 4.8,
+    "unique_id": "634821",
+    "chef_id": 7,
+    "favorite": false
+  },
+  {
+    "img":"https://i0.wp.com/www.mellownspicy.com/wp-content/uploads/2012/10/CHam_cham4.jpg?ssl=1",
+    "recipe_name": "Chomchom",
+    "ingredients": [
+      "Milk Powder",
+      "Flour",
+      "Sugar",
+      "Water",
+      "Cardamom",
+      "Saffron"
+    ],
+    "cooking_method": "1. Mix milk powder and flour with water to form a dough 2. Knead the dough and form small oval-shaped balls 3. Boil water and sugar until the sugar dissolves 4. Add the balls to the syrup and cook for 15-20 minutes 5. Add cardamom and saffron and let it cool down before serving",
+    "rating": "4.3",
+    "unique_id": "293832",
+    "chef_id": 7,
+    "favorite": false
+  },
+  {
+    "img":"https://www.sbs.com.au/food/sites/sbs.com.au.food/files/2022-05-02-tcu-s3-rx014-dish-from-my-travels-luci-khan-pani-puri-l.jpg",
+    "recipe_name": "Fuchka",
+    "ingredients": ["Chickpeas", "Potatoes", "Onion", "Chili", "Tamarind"],
+    "cooking_method": "1. Boil chickpeas and potatoes until they are cooked. 2. Mash the chickpeas and potatoes and mix with chopped onions, chili, and tamarind paste. 3. Serve the mixture in small, crispy shells made from semolina or flour. 4. Enjoy the spicy and tangy flavors of fuchka!",
+    "rating": 4.7,
+    "unique_id": "89012",
+    "chef_id": 8,
+    "favorite": false
+  },
+  {
+    "img":"https://foodfusion.com/wp-content/uploads/2019/01/Kachay-Gosht-ki-Biryani-Recipe-by-Food-fusion-5.jpg",
+    "recipe_name": "Bangladeshi Kacchi Biriyani",
+    "ingredients": [
+      "2 cups basmati rice",
+      "1 kg mutton",
+      "1 cup plain yogurt",
+      "1 tsp ginger paste",
+      "1 tsp garlic paste",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "1 tsp red chili powder",
+      "1 tsp turmeric powder",
+      "4 cups water",
+      "1/2 cup ghee",
+      "2 medium onions, sliced",
+      "2 tbsp oil",
+      "2 bay leaves",
+      "4 green cardamoms",
+      "4 cloves",
+      "1 cinnamon stick",
+      "Salt to taste"
+    ],
+    "cooking_method": "1.Wash the rice and soak it in water for 30 minutes 2. In a large pot, heat the ghee and oil. Add the sliced onions and fry until they are golden brown 3. Add the mutton to the pot and cook until it is browned on all sides 4. Add ginger paste, garlic paste, cumin powder, coriander powder, red chili powder, turmeric powder, and salt to the pot 5. Stir well and cook for a few minutes 6. Add the yogurt to the pot and cook for a few more minutes 7. Add 4 cups of water to the pot and bring it to a boil 8. Once it boils, reduce the heat and let it simmer for 20 minutes 9. Drain the water from the rice and add it to the pot. Add the bay leaves, green cardamoms, cloves, and cinnamon stick. Stir well 10.Cover the pot with a lid and cook on low heat for 20 minutes or until the rice and meat are fully cooked 11. Serve hot with raita and salad.",
+    "rating": 4.5,
+    "unique_id": "83241",
+    "chef_id": 8,
+    "favorite": false
+  },
+  {
+    "img":"https://i.ytimg.com/vi/pBbZfs46vPc/maxresdefault.jpg",
+    "recipe_name": "Bangladeshi Tehari",
+    "ingredients": [
+      "2 cups of basmati rice",
+      "2 tablespoons of vegetable oil",
+      "1 onion, sliced",
+      "1 teaspoon of ginger paste",
+      "1 teaspoon of garlic paste",
+      "2 cardamom pods",
+      "2 cinnamon sticks",
+      "2 bay leaves",
+      "1 teaspoon of cumin powder",
+      "1 teaspoon of coriander powder",
+      "1/2 teaspoon of turmeric powder",
+      "1/2 teaspoon of red chili powder",
+      "2 pounds of beef, cut into cubes",
+      "4 cups of water",
+      "Salt to taste",
+      "Fresh coriander leaves for garnish"
+    ],
+    "cooking_method": "1. Wash the rice thoroughly and soak in water for 30 minutes 2. Heat the oil in a large pot over medium heat 3. Add the onion and sauté until golden brown 4. Add the ginger and garlic paste and sauté for 1-2 minutes 5. Add the cardamom pods, cinnamon sticks, and bay leaves and sauté for another minute 6. Add the cumin powder, coriander powder, turmeric powder, and red chili powder and sauté for 1-2 minutes 7. Add the beef and stir well. Cook for 5-7 minutes until the beef is browned 8. Add 4 cups of water and bring to a boil 9. Add the soaked rice and stir well 10. Add salt to taste and mix well 11. Cover the pot and cook over low heat for 20-25 minutes until the rice is fully cooked 12. Garnish with fresh coriander leaves and serve hot.",
+    "rating": 4.5,
+    "unique_id": "98732",
+    "chef_id": 8,
+    "favorite": false
+  }
+]
