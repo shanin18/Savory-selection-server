@@ -1,64 +1,72 @@
 [
   {
     "id": 1,
-    "picture": "https://example.com/chef1.jpg",
-    "name": "John Smith",
+    "picture": "https://img.freepik.com/premium-photo/healthy-you-male-chef-hat-prepare-healthy-meal-handsome-man-with-beard-moustache-cooking-food-professional-restaurant-cook-baking-skilled-baker-use-kitchen-utensils-cooking_474717-36247.jpg",
+    "name": "Kuddus Bhai",
+    "bio":"Chef Kuddus is a renowned chef with over 20 years of experience in the culinary industry. Born and raised in Bangladesh, he learned to cook from his mother at a young age and developed a passion for creating delicious and flavorful dishes. He went on to study culinary arts and worked in top restaurants in both Bangladesh and the United States.",
     "years_of_experience": 15,
     "number_of_recipes": 120,
     "likes": 500
   },
   {
     "id": 2,
-    "picture": "https://example.com/chef2.jpg",
-    "name": "Maria Garcia",
+    "picture": "https://media.istockphoto.com/id/1400535237/photo/young-handsome-asian-man-chef-in-uniform-with-hat-holding-ladle-utensils-cooking-in-the.jpg?s=612x612&w=0&k=20&c=41brEKJvFIyx7c6HJkyAYVdrlnpwBaWnIh5wUrVkWp8=",
+    "name": "Mota Mia",
+    "bio": "Chef Mota Mia is a renowned chef known for his delicious and authentic Bangladeshi cuisine. Born and raised in Dhaka, Bangladesh, Chef Mia developed a passion for cooking at a young age and honed his skills through years of practice and experimentation. He is particularly known for his signature dish, biryani, which is a fragrant and flavorful rice dish that is beloved throughout Bangladesh and beyond. After years of running successful restaurants in Bangladesh, Chef Mia immigrated to the United States and opened a restaurant in New York City, where he continues to delight customers with his flavorful and innovative dishes. He is also a frequent guest on cooking shows and has published several cookbooks that showcase his unique take on traditional Bangladeshi cuisine. Chef Mia's dedication to his craft and his commitment to using high-quality, locally sourced ingredients have earned him a devoted following and numerous awards and accolades.",
     "years_of_experience": 10,
     "number_of_recipes": 80,
     "likes": 250
   },
   {
     "id": 3,
-    "picture": "https://example.com/chef3.jpg",
-    "name": "David Lee",
+    "picture": "https://media.istockphoto.com/id/1217088205/photo/happy-young-asian-woman-wear-on-an-apron-and-hands-showing-spatula-with-pot-on-light-orange.jpg?s=612x612&w=0&k=20&c=jOZLwWRmNots8SbnA16_wnIZk88_9qpVbsDEWX5zSxg=",
+    "name": "Rohima Apa",
+    "bio": "Rohima Apa is a renowned chef with years of experience in the culinary arts. Her passion for cooking started at a young age, and she has since honed her skills through various training programs and apprenticeships. Rohima's specialty lies in creating traditional dishes with a modern twist, and her recipes have won her numerous awards and accolades. She believes that food should not only taste delicious but also be nutritious, and she sources her ingredients from local farmers and markets whenever possible. In her free time, Rohima enjoys experimenting with new recipes and sharing her love for cooking with others.",
     "years_of_experience": 20,
     "number_of_recipes": 200,
     "likes": 1000
   },
   {
     "id": 4,
-    "picture": "https://example.com/chef4.jpg",
-    "name": "Emily Chen",
+    "picture": "https://img.freepik.com/free-photo/portrait-beautiful-young-asian-woman-wear-apron-with-black-pan-spatula_74190-10837.jpg",
+    "name": "Bilkis Banu",
+    "bio": "With over 8 years of culinary experience, Chef Bilkis Banu is known for her expertise in traditional cooking techniques and creative flavor combinations. She honed her skills at top restaurants and culinary schools around the world before returning to her hometown to open her own restaurant. Chef Banu is passionate about using fresh, locally-sourced ingredients in her dishes and is dedicated to promoting sustainable and ethical food practices. Her innovative approach to cooking has earned her numerous accolades and recognition in the culinary industry.",
     "years_of_experience": 8,
     "number_of_recipes": 60,
     "likes": 150
   },
   {
     "id": 5,
-    "picture": "https://example.com/chef5.jpg",
-    "name": "Michael Brown",
+    "picture": "https://img.freepik.com/free-photo/portrait-beautiful-young-asian-woman-chef-cook-uniform-with-hat-yellow-isolated-background_74190-16090.jpg",
+    "name": "Shonali Shumi",
+    "bio": "Shonali Shumi is a highly acclaimed chef known for her expertise in Bangladeshi cuisine. With years of experience in the culinary arts, Shumi has developed a reputation for creating innovative and delicious dishes that showcase the flavors and spices of her home country. She is passionate about using fresh, locally sourced ingredients and takes great care in preparing each dish to perfection. Shumi has won numerous awards and accolades for her culinary creations and is widely regarded as one of the top chefs in her field. She continues to inspire others through her cooking and is committed to sharing the rich cultural heritage of Bangladeshi cuisine with the world.",
     "years_of_experience": 12,
     "number_of_recipes": 90,
     "likes": 300
   },
   {
     "id": 6,
-    "picture": "https://example.com/chef6.jpg",
-    "name": "Sophia Kim",
+    "picture": "https://img.freepik.com/free-photo/young-female-cooking-white-cook-suit-white-cap-posing-thinking_140725-16460.jpg",
+    "name": "Sadia Shundori",
+    "bio": "Sadia Shundori is a renowned chef hailing from Bangladesh, known for her unique and creative culinary creations. She developed a passion for cooking at a young age and honed her skills by experimenting with different ingredients and techniques. She has since become a popular figure in the food industry, gaining recognition for her innovative take on traditional Bangladeshi cuisine. Chef Sadia's dishes are known for their bold flavors and vibrant colors, and she takes pride in using fresh, locally sourced ingredients in her cooking. She continues to inspire and educate others through her cooking classes and television appearances, and is committed to promoting Bangladeshi cuisine on a global stage.",
     "years_of_experience": 5,
     "number_of_recipes": 40,
     "likes": 100
   },
   {
     "id": 7,
-    "picture": "https://example.com/chef7.jpg",
-    "name": "Daniel Wu",
+    "picture": "https://t4.ftcdn.net/jpg/05/65/44/89/360_F_565448971_hK6RiLbqHoGu0CErmcG0LtYOPJJB5EdD.jpg",
+    "name": "Shabana Begum",
+    "bio": "Shabana Begum is a highly skilled chef known for her expertise in preparing traditional Bangladeshi cuisine. With over a decade of experience in the culinary industry, Shabana has honed her craft and developed a deep understanding of the unique flavors and spices that make Bangladeshi food so delicious. Her passion for cooking is matched only by her commitment to using fresh, locally sourced ingredients and creating dishes that are both healthy and flavorful. Through her cooking, Shabana hopes to share the rich culinary traditions of her home country with the world and inspire others to explore the diverse and delicious cuisine of Bangladesh.",
     "years_of_experience": 18,
     "number_of_recipes": 150,
     "likes": 800
   },
   {
     "id": 8,
-    "picture": "https://example.com/chef8.jpg",
-    "name": "Amanda Davis",
+    "picture": "https://t3.ftcdn.net/jpg/03/38/15/58/360_F_338155850_P3QMomi6to2QNzPKpgASG4a5x8atxs8C.jpg",
+    "name": "Chomok Ali",
+    "bio": "Chomok Ali is a talented chef known for his creative use of traditional Bangladeshi flavors and ingredients. With over 7 years of experience in the culinary industry, he has honed his skills and developed a reputation for his unique and flavorful dishes. Chomok takes pride in using fresh, locally-sourced ingredients and experimenting with different techniques and spices to create dishes that are both delicious and innovative. He is passionate about sharing his love of Bangladeshi cuisine with others and hopes to inspire a new generation of chefs to explore the rich culinary traditions of his country.",
     "years_of_experience": 7,
     "number_of_recipes": 50,
     "likes": 120
