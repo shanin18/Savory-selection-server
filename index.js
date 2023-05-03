@@ -1,12 +1,11 @@
 const express = require('express')
 const app = express();
-const cors = require("cors");
-const port = 5000
+const port = process.env.PORT || 5000
 const allChef = require("./data/chef.json");
 const recipes = require("./data/chefRecipe.json");
+const cors = require("cors");
 
 app.use(cors());
-
 
 app.get('/', (req, res) => {
   res.send('Savory selections Running...')
@@ -22,7 +21,7 @@ app.get("/recipes", (req, res)=>{
 
 app.get("/chef/:id", (req, res)=>{
     const id = req.params.id;
-    const selectedItem = allChef?.find(chef => chef.id == id)
+    const selectedItem = allChef.find(chef => chef.id == id)
     res.send(selectedItem)
 })
 
