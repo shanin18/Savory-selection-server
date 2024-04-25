@@ -35,10 +35,6 @@
   </ul>
 </details>
 
-<!-- Features -->
-
-### Endpoints => <a name="endpoints"></a>
-
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
